@@ -1,0 +1,26 @@
+# Build directory (Vite)
+dist/
+
+# Cypress directory and configuration
+cypress/
+cypress.json
+cypress.env.json
+
+# Test, log, and coverage directories
+coverage/
+*.log
+
+# Temporary and backup files
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
